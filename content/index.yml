@@ -1,9 +1,7 @@
 hero:
   title: Post Your Edits or Art at High Qaulity
-  description: Craft high-performing, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify’s global edge network.
+  description: We believe your art matters and should be seen by everyone in your field of work
   buttons:
-    - label: Get Started Today
-      url: https://www.netlify.com/
 logos:
   title: Trusted by the world's best
   icons:
